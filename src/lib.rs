@@ -1,4 +1,4 @@
 // lib.rs
 pub fn display_text() {
-    println!("Hello, World!");
+    println!("This will be my first package!");
 }
